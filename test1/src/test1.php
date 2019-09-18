@@ -12,3 +12,4 @@ class test1{
         echo time();
     }
 }
+
