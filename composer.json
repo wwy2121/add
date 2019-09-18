@@ -8,5 +8,8 @@
       "email": "wwy2121@qq.com"
     }
   ],
+  "autoload": {
+    "psr-4":{"Test1\\my":"src"}
+  },
   "require": {}
 }
