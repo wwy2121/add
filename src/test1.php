@@ -11,5 +11,9 @@ class test1{
     public function add() {
         echo time();
     }
+
+    public function info() {
+        phpinfo();
+    }
 }
 
