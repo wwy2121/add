@@ -6,9 +6,9 @@
  * Time: 9:39
  */
 
-namespace info;
+namespace group2;
 
-class info {
+class group2 {
     public function getInfo() {
         echo "info2";
     }
