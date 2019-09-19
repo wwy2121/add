@@ -6,7 +6,7 @@
  * Time: 9:39
  */
 
-namespace group1;
+namespace Group1;
 
 class group1 {
     public function getInfo() {
