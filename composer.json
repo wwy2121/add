@@ -10,9 +10,7 @@
   ],
   "autoload": {
     "psr-4":{
-      "Group1\\":"group1/src",
-      "Group2\\":"group2/src",
-      "Group3\\":"group3/src"
+      "Group1\\":"group1/src"
     }
   },
   "require": {}
